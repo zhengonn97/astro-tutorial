@@ -3,6 +3,7 @@ layout: ../../layouts/MarkdownPostLayout.astro
 title: "IPS RG & FP Category"
 pubDate: 2022-07-01
 author: "Astro Learner"
+tags: ["astro", "setbacks"]
 ---
 
 ## \[RG] REDUCTION GEAR PARTS

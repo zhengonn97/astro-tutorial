@@ -3,6 +3,7 @@ layout: ../../layouts/MarkdownPostLayout.astro
 title: "IPS 33 Franchise"
 pubDate: 2022-07-01
 author: "Astro Learner"
+tags: ["successes", "community"]
 ---
 
 # 33 BT Bucket Teeth
